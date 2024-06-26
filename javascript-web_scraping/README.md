@@ -1,0 +1,1 @@
+JavaScript web scraping involves extracting data from websites using JavaScript-based tools and libraries like Puppeteer or Cheerio. These tools simulate browser behavior or parse HTML to retrieve specific information. It's useful for automating data collection from web pages for various applications.
